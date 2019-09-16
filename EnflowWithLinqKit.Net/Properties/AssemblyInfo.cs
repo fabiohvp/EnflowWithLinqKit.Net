@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("EnflowWithLinqKit.Net")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Enflow enhanced with LinqKit")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Fabiohvp")]
 [assembly: AssemblyProduct("EnflowWithLinqKit.Net")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
